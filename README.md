@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
 <h3 align="center">A game and software developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=price-1&label=Profile%20views&color=0e75b6&style=flat" alt="price-1" /> </p>
-
 - 🔭 I’m currently working on **game development projects using Unity.**
 
 - 📫 How to reach me **a7med.fawzy1212@gmail.com**
